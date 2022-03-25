@@ -8,7 +8,7 @@
 ---The findings are when using the above referenced the Run Analysis button returned results that was roughly 7 times faster for both years as shown in the below
 
 
-![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png ![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png) 
+![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) ![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png) 
 
 ### Summary: 
 ---In summary we see that working to use arrays to help shorten some of the coding and the computing can reduce output time as well as the amount of code that has to be written.---While the original analysis was for one stock that required `nested for loops` and took .78125 seconds in one instance, the new code with arrays proved to be more superior. This code took .140625 seconds for the same year and selecting 12 different symbols.
