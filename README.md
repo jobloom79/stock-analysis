@@ -5,7 +5,7 @@
 ### Analysis and Challenges:
 ---Using the previous information we add additonal arrays to represent the `tickerVolume(i)`, `tickerStartingprices(i)` and `tickerEndingprices(i)`. Once we have these values we can put it in a `For loop` combined with `If-then` statements to represent the checking of tickers and increasing the volume of each ticker---One Challenge discovered was the requirement to make sure the VBscript running the command buttons were properly pointing to the worksheet.
 ### Results:
----The findings are when using the above referenced the Run Analysis button returned results that was roughly 7 times faster for both years as shown in the below
+---The findings are when using the above referenced the Run Analysis button returned results that was roughly 7 times faster for both years as shown in the below 
 
 
 ![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) ![Stock Analyis Refactored 2017](https://github.com/jobloom79/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png) 
